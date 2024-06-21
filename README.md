@@ -28,7 +28,7 @@ Este projeto contém testes automatizados usando o framework Cypress para verifi
 - Node.js
 - Cypress
 
-## Configuração do Ambiente
+## Configuração do Ambiente:
 
 1. *Instale o Node.js*:
    - Verifique se você possui o Node.js instalado executando node --version no terminal.
@@ -42,7 +42,7 @@ Este projeto contém testes automatizados usando o framework Cypress para verifi
      ```
 
 
-## Executando os Testes
+## Executando os Testes:
 
 1. *Clone o repositório*:
    ```
